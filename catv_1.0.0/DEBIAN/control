@@ -1,0 +1,8 @@
+Package: catv
+Version: 1.0.0
+Section: utils
+Priority: optional
+Architecture: all
+Depends: xclip | xsel | wl-clipboard | pbcopy
+Maintainer: Lambrou <alexanderlambrou0602@gmail.com>
+Description: A clipboard utility that handles text and binary files
