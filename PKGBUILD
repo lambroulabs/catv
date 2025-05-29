@@ -1,7 +1,8 @@
+# Maintainer: lambrou <alexanderlambrou0602@gmail.com>
 pkgname=catv
 pkgver=1.0.0
 pkgrel=1
-description="Clipboard utility supporting text and binary files"
+pkgdesc="Clipboard utility supporting text and binary files"
 arch=('any')
 url="https://github.com/lambroulabs/catv"
 license=('MIT')
